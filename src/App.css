@@ -7,7 +7,7 @@
 .hero-section {
   padding: 100px 0;
   text-align: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.nasa.gov/images/bg_home.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.6)), url('https://www.nasa.gov/wp-content/uploads/2025/06/iss067e035826orig.jpg');
   /* Fallback or gradient */
   background-size: cover;
   background-position: center;
